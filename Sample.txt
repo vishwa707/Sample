@@ -1,2 +1,2 @@
 Welcome
-Add features here
+Resolve bugs here
